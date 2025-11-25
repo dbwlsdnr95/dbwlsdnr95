@@ -11,10 +11,10 @@
 
 ### 👋 Hi there!
 
-🕸️ Web & Mobile Security Testing
-🛡️ Security Solutions Operation (WAF / Firewall)
-☁️ Cloud Security (Akamai / AWS / GCP)
-🖥️ Infrastructure Operation
+🕸️ Web & Mobile Security Testing<br>
+🛡️ Security Solutions Operation (WAF / Firewall)<br>
+☁️ Cloud Security (Akamai / AWS / GCP)<br>
+🖥️ Infrastructure Operation<br>
 🔬 CVE PoC Research
 
 ---
