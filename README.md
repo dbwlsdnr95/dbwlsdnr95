@@ -21,34 +21,23 @@
 <h3>🛠 Tech</h3>
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48px" />
 
-  <!-- Cloud / Security -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48px" />
 
-  <!-- Tools -->
+  <img src="./icons/aws.png" width="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48px" />
+  <img src="./icons/akamai.png" width="48px" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48px" />
 
-  <!-- Akamai / WAF / Pentest (custom icons) -->
-  <img src="https://raw.githubusercontent.com/DBwlsdnr95/icons/main/akamai.png" width="48px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48px" /> 
-  <img src="https://raw.githubusercontent.com/DBwlsdnr95/icons/main/pentest.png" width="48px" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="48px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/owasp.svg" width="48px">
+
 </p>
 
 ---
-
-
-## 📌 Featured Projects
-
-<a href="https://github.com/dbwlsdnr95/security-portfolio">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbwlsdnr95&theme=vue" width="420" />
-</a>
-
-<a href="https://github.com/dbwlsdnr95/security-portfolio">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dbwlsdnr95&theme=vue" width="420" />
-</a>
