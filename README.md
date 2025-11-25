@@ -13,7 +13,8 @@
 
 - 웹·모바일 진단
 - 보안 솔루션 운영(WAF / 방화벽 등)
-- 클라우드 보안(Akamai AAP / AWS / GCP)
+- 클라우드 보안(Akamai / AWS / GCP)
+- 인프라 운영
 - CVE PoC 연구
 
 ---
