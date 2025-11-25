@@ -3,30 +3,52 @@
 
 <p align="center">
   <a href="https://github.com/dbwlsdnr95/security-portfolio">🔗 Security Portfolio</a> • 
-  <a>Email: wlsdnr255@naver.com</a> 
+  <a>Email: wlsdnr255@naver.com</a>
+ 
 </p>
 
 ---
 
 ### 👋 Hi there!
 
-- 보안진단·보안 및 클라우드 솔루션 운영  
-- 현재 모의해킹 분야 목표로 실전 프로젝트를 진행 중입니다.  
-- CVE PoC 재현, 웹·모바일 진단, 클라우드 보안(Akamai, AWS, GCP),  
-- ELK 분석 및 보안 자동화 스크립트 개발 경험이 있습니다.
+- 웹·모바일 진단
+- 보안 솔루션 운영(WAF / 방화벽 등)
+- 클라우드 보안(Akamai AAP / AWS / GCP)
+- CVE PoC 연구
 
 ---
 
-### 🛠 Tech
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="110"/>
-  <img src="https://img.shields.io/badge/Akamai-0099FF?style=flat-square&logo=akamai&logoColor=white" width="110"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" width="110"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" width="110"/>
-  <img src="https://img.shields.io/badge/Fortigate-FFFFFF?style=flat-square&logo=fortinet&logoColor=red" width="110"/>
-  <img src="https://img.shields.io/badge/MonitorLab%20WAF-1E90FF?logoColor=white" width="110"/>
-  <img src="https://img.shields.io/badge/Web%20Pentest-333333?logo=google-chrome&logoColor=white" width="110"/>
-  <img src="https://img.shields.io/badge/Mobile%20Pentest-008000?logo=android&logoColor=white" width="110"/>
+<h3>🛠 Tech</h3>
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48px" />
+
+  <!-- Cloud / Security -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48px" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48px" />
+
+  <!-- Akamai / WAF / Pentest (custom icons) -->
+  <img src="https://raw.githubusercontent.com/DBwlsdnr95/icons/main/akamai.png" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48px" /> 
+  <img src="https://raw.githubusercontent.com/DBwlsdnr95/icons/main/pentest.png" width="48px" />
 </p>
 
 ---
+
+
+## 📌 Featured Projects
+
+<a href="https://github.com/dbwlsdnr95/security-portfolio">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dbwlsdnr95&theme=vue" width="420" />
+</a>
+
+<a href="https://github.com/dbwlsdnr95/security-portfolio">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dbwlsdnr95&theme=vue" width="420" />
+</a>
