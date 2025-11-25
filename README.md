@@ -19,11 +19,14 @@
 
 ### 🛠 Tech
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/Akamai-0099FF?style=flat-square&logo=akamai&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" width="120"/>
-  <img src="https://img.shields.io/badge/Fortigate-FFFFFF?style=flat-square&logo=fortinet&logoColor=red" width="120"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/Akamai-0099FF?style=flat-square&logo=akamai&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/Fortigate-FFFFFF?style=flat-square&logo=fortinet&logoColor=red" width="110"/>
+  <img src="https://img.shields.io/badge/MonitorLab%20WAF-1E90FF?logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/Web%20Pentest-333333?logo=google-chrome&logoColor=white" width="110"/>
+  <img src="https://img.shields.io/badge/Mobile%20Pentest-008000?logo=android&logoColor=white" width="110"/>
 </p>
 
 ---
