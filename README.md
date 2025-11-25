@@ -11,11 +11,11 @@
 
 ### 👋 Hi there!
 
-- 웹·모바일 진단
-- 보안 솔루션 운영(WAF / 방화벽 등)
-- 클라우드 보안(Akamai / AWS / GCP)
-- 인프라 운영
-- CVE PoC 연구
+🕸️ Web & Mobile Security Testing
+🛡️ Security Solutions Operation (WAF / Firewall)
+☁️ Cloud Security (Akamai / AWS / GCP)
+🖥️ Infrastructure Operation
+🔬 CVE PoC Research
 
 ---
 
