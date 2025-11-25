@@ -19,18 +19,11 @@
 
 ### 🛠 Tech
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Akamai-0099FF?style=flat-square&logo=akamai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fortigate-FFFFFF?style=flat-square&logo=fortinet&logoColor=red"/>
-  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="120"/>
+  <img src="https://img.shields.io/badge/Akamai-0099FF?style=flat-square&logo=akamai&logoColor=white" width="120"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" width="120"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" width="120"/>
+  <img src="https://img.shields.io/badge/Fortigate-FFFFFF?style=flat-square&logo=fortinet&logoColor=red" width="120"/>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dbwlsdnr95&show_icons=true&theme=default" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbwlsdnr95&layout=compact" />
-</p>
