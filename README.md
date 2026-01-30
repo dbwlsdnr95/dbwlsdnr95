@@ -2,7 +2,6 @@
 <h4 align="center">Penetration Tester & Security Engineer</h4>
 
 <p align="center">
-  <a href="https://github.com/dbwlsdnr95/security-portfolio">🔗 Security Portfolio</a> • 
   <a>Email: wlsdnr255@naver.com</a>
  
 </p>
