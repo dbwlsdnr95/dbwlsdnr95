@@ -1,4 +1,4 @@
-<h2 align="center">jinwook yu</h2>
+<h2 align="center">jinwk yu</h2>
 <h4 align="center">Penetration Tester & Security Engineer</h4>
 
 <p align="center">
